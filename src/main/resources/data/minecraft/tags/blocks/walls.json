@@ -1,0 +1,7 @@
+{
+  "replace": "false",
+  "values": [
+    "minecraft:calcite_wall",
+    "minecraft:tuff_wall"
+  ]
+}
